@@ -1,3 +1,3 @@
-cybersecurity student ---------------------  * 📍 Poland
+
 
  
