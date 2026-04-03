@@ -4,4 +4,4 @@ cybersecurity student ---------------------  * 📍 Poland
  
 ### Top Languages
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=naroi-404&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naroi-404"/>
